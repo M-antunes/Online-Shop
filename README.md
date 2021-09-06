@@ -1,6 +1,6 @@
 ## Online_Shop
 
-### This small piece of software is meant to simulate a store. The products can be seen, updated, deleted and added. Flutter provides a lot of resources for it. It's just really fun to work with it. I have some photos to show the UI and the main functions of this work.  
+### This small piece of software is meant to simulate a store. The products can be seen, updated, deleted and added. It's just really fun to work with it. I have some photos to show the UI and the main functions of this work.  
 
 
 #### 0.1 - This is the first page where the products are displayed. The user can click on one of them and go to another page where it is described. The user can also click on the cart icon to add that particular product to the cart, which will be displayed in another page:
